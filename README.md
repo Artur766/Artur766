@@ -3,6 +3,8 @@
 ### :man_technologist: Обо мне:
 
 Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+👨‍🎓Постоянно прилагаю усилия для обучения и саморазвития.
+🎯Стремлюсь к работе с настоящими боевыми проектами.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
