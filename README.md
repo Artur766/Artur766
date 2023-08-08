@@ -1,5 +1,5 @@
 # Привет, меня зовут Артур!:wave:
-
+---
 ### :man_technologist: Обо мне:
 
 Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
